@@ -9,3 +9,8 @@ import cv2   # pip install opencv-python
 .
 .
 #run main.py
+.
+.
+.
+used openCv library and numpy 
+
